@@ -1,0 +1,3 @@
+/home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/build/CMakeFiles/rebuild_cache.dir
+/home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/build/CMakeFiles/hellofs.dir
+/home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/build/CMakeFiles/edit_cache.dir

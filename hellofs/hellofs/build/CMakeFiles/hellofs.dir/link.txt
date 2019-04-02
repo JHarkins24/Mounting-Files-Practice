@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64   CMakeFiles/hellofs.dir/hellofs.c.o  -o bin/hellofs /usr/lib/x86_64-linux-gnu/libfuse.so 

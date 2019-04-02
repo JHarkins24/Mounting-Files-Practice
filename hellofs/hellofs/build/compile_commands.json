@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/build",
+  "command": "/usr/bin/cc  -I/usr/include/fuse   -D_FILE_OFFSET_BITS=64   -std=gnu11 -o CMakeFiles/hellofs.dir/hellofs.c.o   -c /home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/hellofs.c",
+  "file": "/home/joseph.harkins238@csuci.edu/Desktop/hellofs/hellofs/hellofs.c"
+}
+]
